@@ -1,0 +1,429 @@
+[
+    {
+        "id": 1,
+        "evtType": "SCARP",
+        "evtMsg": {
+            "scheduleChangeAlternativeReprotection": {
+                "reprotectionHeaderList": [
+                    {
+                        "pnrAddress": "H4YJMO",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    },
+                    {
+                        "pnrAddress": "HP84HS",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    }
+                ],
+                "repDataCnt": 2,
+                "reprotectionData": {
+                    "flightRequiringReprotection": {
+                        "flightNumber": 123,
+                        "flightLegDepartureDate": "2019-12-02 12:17:31",
+                        "flightLegDepartureCity": "ATL",
+                        "flightLegArrivalCity": "MSP",
+                        "flightClassOfService": "CL",
+                        "flightStatusCode": "S",
+                        "flightErrorCode": 200,
+                        "flightErrorMessage": "Sucess"
+                    },
+                    "protectionFlight": {
+                        "protectionFlightLegDepartureDate": "2019-12-02 12:17:31",
+                        "protectionFlightLegDepartureCity": "ATL",
+                        "protectionFlightNumber": 123,
+                        "protectionFlightLegStatusCode": "S",
+                        "protectionFlightLegErrorCode": 200,
+                        "protectionFlightLegArrivalCity": "MSP",
+                        "protectionFlightLegClassOfService": "CL",
+                        "protectionFlightLegErrorMessage": "Success"
+                    },
+                    "connectingProtectionFlight": {
+                        "connectingFlightLegDepartureDate": "2019-12-02 12:17:31",
+                        "connectingFlightLegDepartureCity": "ATL",
+                        "connectingFlightLegArrivalCity": "MSP",
+                        "connectingFlightClassOfService": "CL",
+                        "connectingFlightNumber": 123,
+                        "connectingFlightStatusCode": "S",
+                        "connectingFlightErrorCode": 200,
+                        "connectingFlightErrorMessage": "Success"
+                    }
+                },
+                "version": "1.0",
+                "dmsHeaderText": "VSCR1DL"
+            }
+        },
+        "crtnGts": 1575289051385
+    }
+
+,
+  {
+        "id": 2,
+        "evtType": "SCARP",
+        "evtMsg": {
+            "scheduleChangeAlternativeReprotection": {
+                "reprotectionHeaderList": [
+                    {
+                        "pnrAddress": "HYFRMF",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    },
+                    {
+                        "pnrAddress": "HP84HS",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    }
+                ],
+                "repDataCnt": 2,
+                "reprotectionData": {
+                    "flightRequiringReprotection": {
+                        "flightNumber": 123,
+                        "flightLegDepartureDate": "2019-12-02 12:17:31",
+                        "flightLegDepartureCity": "ATL",
+                        "flightLegArrivalCity": "MSP",
+                        "flightClassOfService": "CL",
+                        "flightStatusCode": "S",
+                        "flightErrorCode": 200,
+                        "flightErrorMessage": "Sucess"
+                    },
+                    "protectionFlight": {
+                        "protectionFlightLegDepartureDate": "2019-12-02 12:17:31",
+                        "protectionFlightLegDepartureCity": "BTL",
+                        "protectionFlightNumber": 121,
+                        "protectionFlightLegStatusCode": "S",
+                        "protectionFlightLegErrorCode": 200,
+                        "protectionFlightLegArrivalCity": "ITL",
+                        "protectionFlightLegClassOfService": "CL",
+                        "protectionFlightLegErrorMessage": "Success"
+                    },
+                    "connectingProtectionFlight": {
+                        "connectingFlightLegDepartureDate": "2019-12-02 12:17:31",
+                        "connectingFlightLegDepartureCity": "ATL",
+                        "connectingFlightLegArrivalCity": "MSP",
+                        "connectingFlightClassOfService": "CL",
+                        "connectingFlightNumber": 123,
+                        "connectingFlightStatusCode": "S",
+                        "connectingFlightErrorCode": 200,
+                        "connectingFlightErrorMessage": "Success"
+                    }
+                },
+                "version": "1.0",
+                "dmsHeaderText": "VSCR1DL"
+            }
+        },
+        "crtnGts": 1575289051385
+    }
+    ,
+    {
+        "id": 3,
+        "evtType": "SCARP",
+        "evtMsg": {
+            "scheduleChangeAlternativeReprotection": {
+                "reprotectionHeaderList": [
+                    {
+                        "pnrAddress": "H4YJMO",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    },
+                    {
+                        "pnrAddress": "HP84HS",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    }
+                ],
+                "repDataCnt": 2,
+                "reprotectionData": {
+                    "flightRequiringReprotection": {
+                        "flightNumber": 123,
+                        "flightLegDepartureDate": "2019-12-02 12:17:31",
+                        "flightLegDepartureCity": "ATL",
+                        "flightLegArrivalCity": "HJS",
+                        "flightClassOfService": "CL",
+                        "flightStatusCode": "S",
+                        "flightErrorCode": 200,
+                        "flightErrorMessage": "Sucess"
+                    },
+                    "protectionFlight": {
+                        "protectionFlightLegDepartureDate": "2019-11-02 12:17:31",
+                        "protectionFlightLegDepartureCity": "HTE",
+                        "protectionFlightNumber": 411,
+                        "protectionFlightLegStatusCode": "S",
+                        "protectionFlightLegErrorCode": 200,
+                        "protectionFlightLegArrivalCity": "PTE",
+                        "protectionFlightLegClassOfService": "CL",
+                        "protectionFlightLegErrorMessage": "Success"
+                    },
+                    "connectingProtectionFlight": {
+                        "connectingFlightLegDepartureDate": "2019-14-02 12:17:31",
+                        "connectingFlightLegDepartureCity": "ATL",
+                        "connectingFlightLegArrivalCity": "MSP",
+                        "connectingFlightClassOfService": "CL",
+                        "connectingFlightNumber": 123,
+                        "connectingFlightStatusCode": "S",
+                        "connectingFlightErrorCode": 200,
+                        "connectingFlightErrorMessage": "Success"
+                    }
+                },
+                "version": "1.0",
+                "dmsHeaderText": "VSCR1DL"
+            }
+        },
+        "crtnGts": 1575289051385
+    }
+, 
+{
+        "id": 4,
+        "evtType": "SCARP",
+        "evtMsg": {
+            "scheduleChangeAlternativeReprotection": {
+                "reprotectionHeaderList": [
+                    {
+                        "pnrAddress": "H4YJMO",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    },
+                    {
+                        "pnrAddress": "HP84HS",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    }
+                ],
+                "repDataCnt": 2,
+                "reprotectionData": {
+                    "flightRequiringReprotection": {
+                        "flightNumber": 123,
+                        "flightLegDepartureDate": "2019-12-02 12:17:31",
+                        "flightLegDepartureCity": "ATL",
+                        "flightLegArrivalCity": "MSP",
+                        "flightClassOfService": "CL",
+                        "flightStatusCode": "S",
+                        "flightErrorCode": 200,
+                        "flightErrorMessage": "Sucess"
+                    },
+                    "protectionFlight": {
+                        "protectionFlightLegDepartureDate": "2019-01-24 12:17:31",
+                        "protectionFlightLegDepartureCity": "HTE",
+                        "protectionFlightNumber": 411,
+                        "protectionFlightLegStatusCode": "S",
+                        "protectionFlightLegErrorCode": 200,
+                        "protectionFlightLegArrivalCity": "ARE",
+                        "protectionFlightLegClassOfService": "CL",
+                        "protectionFlightLegErrorMessage": "Success"
+                    },
+                    "connectingProtectionFlight": {
+                        "connectingFlightLegDepartureDate": "2019-14-02 12:17:31",
+                        "connectingFlightLegDepartureCity": "VRE",
+                        "connectingFlightLegArrivalCity": "MSP",
+                        "connectingFlightClassOfService": "CL",
+                        "connectingFlightNumber": 123,
+                        "connectingFlightStatusCode": "S",
+                        "connectingFlightErrorCode": 200,
+                        "connectingFlightErrorMessage": "Success"
+                    }
+                },
+                "version": "1.0",
+                "dmsHeaderText": "VSCR1DL"
+            }
+        },
+        "crtnGts": 1575289051385
+    }
+,
+{
+        "id": 5,
+        "evtType": "SCARP",
+        "evtMsg": {
+            "scheduleChangeAlternativeReprotection": {
+                "reprotectionHeaderList": [
+                    {
+                        "pnrAddress": "H4YJMO",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    },
+                    {
+                        "pnrAddress": "HP84HS",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    }
+                ],
+                "repDataCnt": 2,
+                "reprotectionData": {
+                    "flightRequiringReprotection": {
+                        "flightNumber": 123,
+                        "flightLegDepartureDate": "2019-12-02 12:17:31",
+                        "flightLegDepartureCity": "ATL",
+                        "flightLegArrivalCity": "MSP",
+                        "flightClassOfService": "CL",
+                        "flightStatusCode": "S",
+                        "flightErrorCode": 200,
+                        "flightErrorMessage": "Sucess"
+                    },
+                    "protectionFlight": {
+                        "protectionFlightLegDepartureDate": "2019-05-13 12:17:31",
+                        "protectionFlightLegDepartureCity": "ERE",
+                        "protectionFlightNumber": 411,
+                        "protectionFlightLegStatusCode": "S",
+                        "protectionFlightLegErrorCode": 200,
+                        "protectionFlightLegArrivalCity": "FEG",
+                        "protectionFlightLegClassOfService": "CL",
+                        "protectionFlightLegErrorMessage": "Success"
+                    },
+                    "connectingProtectionFlight": {
+                        "connectingFlightLegDepartureDate": "2019-14-02 12:17:31",
+                        "connectingFlightLegDepartureCity": "VRE",
+                        "connectingFlightLegArrivalCity": "PRO",
+                        "connectingFlightClassOfService": "CL",
+                        "connectingFlightNumber": 123,
+                        "connectingFlightStatusCode": "S",
+                        "connectingFlightErrorCode": 200,
+                        "connectingFlightErrorMessage": "Success"
+                    }
+                },
+                "version": "1.0",
+                "dmsHeaderText": "VSCR1DL"
+            }
+        },
+        "crtnGts": 1575289051385
+    }
+,
+{
+        "id": 6,
+        "evtType": "SCARP",
+        "evtMsg": {
+            "scheduleChangeAlternativeReprotection": {
+                "reprotectionHeaderList": [
+                    {
+                        "pnrAddress": "H4YJMO",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    },
+                    {
+                        "pnrAddress": "HP84HS",
+                        "errorCode": 200,
+                        "errorMessage": "No Message",
+                        "runDate": "2019-12-02 12:17:31",
+                        "transactionID": null,
+                        "progressTimes": {
+                            "timePushedToMQ": "2019-12-02 12:17:31",
+                            "timeConsumedByTPF": "2019-12-02 12:17:31",
+                            "timePushedByTPF": "2019-12-02 12:17:31"
+                        }
+                    }
+                ],
+                "repDataCnt": 2,
+                "reprotectionData": {
+                    "flightRequiringReprotection": {
+                        "flightNumber": 123,
+                        "flightLegDepartureDate": "2019-12-02 12:17:31",
+                        "flightLegDepartureCity": "ATL",
+                        "flightLegArrivalCity": "MSP",
+                        "flightClassOfService": "CL",
+                        "flightStatusCode": "S",
+                        "flightErrorCode": 200,
+                        "flightErrorMessage": "Sucess"
+                    },
+                    "protectionFlight": {
+                        "protectionFlightLegDepartureDate": "2019-08-13 12:17:31",
+                        "protectionFlightLegDepartureCity": "ERE",
+                        "protectionFlightNumber": 411,
+                        "protectionFlightLegStatusCode": "S",
+                        "protectionFlightLegErrorCode": 200,
+                        "protectionFlightLegArrivalCity": "RRO",
+                        "protectionFlightLegClassOfService": "CL",
+                        "protectionFlightLegErrorMessage": "Success"
+                    },
+                    "connectingProtectionFlight": {
+                        "connectingFlightLegDepartureDate": "2019-14-02 12:17:31",
+                        "connectingFlightLegDepartureCity": "VRE",
+                        "connectingFlightLegArrivalCity": "PRO",
+                        "connectingFlightClassOfService": "CL",
+                        "connectingFlightNumber": 123,
+                        "connectingFlightStatusCode": "S",
+                        "connectingFlightErrorCode": 200,
+                        "connectingFlightErrorMessage": "Success"
+                    }
+                },
+                "version": "1.0",
+                "dmsHeaderText": "VSCR1DL"
+            }
+        },
+        "crtnGts": 1575289051385
+    }
+
+]
